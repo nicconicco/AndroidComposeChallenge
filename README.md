@@ -12,11 +12,10 @@ Here are my studies about android Jetpack Compose, unfortunately, I'm from Brazi
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
-The motivation is to be up to date with this new cool way of doing the views. Very grateful to understand a little and put in practice some new ideas for the future of my career.
+The motivation is to be up to date with this new cool way of doing the views. Very grateful to understand a little and put in practice some new ideas for the future of my career. And I created annotations in what was my first impressions and result in a package called [imprecoes] in portugues.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 There are my 2 screenshots about this challenge.
 
 ![firsrt2](https://user-images.githubusercontent.com/6299673/109497115-540d0f80-7a70-11eb-8b1f-0941c0bdeaff.png)
