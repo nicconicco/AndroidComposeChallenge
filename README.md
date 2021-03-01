@@ -14,8 +14,8 @@ The motivation is to be up to date with this new cool way of doing the views. Ve
 <!-- You can add more screenshots here if you like -->
 There are my 2 screenshots about this challenge.
 
-![first1](https://user-images.githubusercontent.com/6299673/109499629-e9f66980-7a73-11eb-83b1-fc14c32bdcc6.png width="200" height="400")
-![firsrt2](https://user-images.githubusercontent.com/6299673/109497115-540d0f80-7a70-11eb-8b1f-0941c0bdeaff.png width="200" height="400")
+![first1](https://user-images.githubusercontent.com/6299673/109499629-e9f66980-7a73-11eb-83b1-fc14c32bdcc6.png=250x250)
+![firsrt2](https://user-images.githubusercontent.com/6299673/109497115-540d0f80-7a70-11eb-8b1f-0941c0bdeaff.png=250x250)
 
 
 
