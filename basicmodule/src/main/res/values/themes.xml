@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Theme.ComposePathwayCuritiba.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ComposePathwayCuritiba.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ComposePathwayCuritiba.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="title_activity_basic_compose">My Compose App</string>
+    <string name="title_activity_hierarchical_compose">My Compose App</string>
+    <string name="title_activity_material_compose">My Compose App</string>
+    <string name="title_activity_list_compose">My Compose App</string>
+    <string name="title_activity_modifiers_compose">My Compose App</string>
+    <string name="title_activity_buttons_compose">My Compose App</string>
+    <string name="share">compartilhar</string>
+    <string name="title_activity_better_lists_compose">My Compose App</string>
+    <string name="title_activity_component_compose">My Compose App</string>
+    <string name="title_activity_grid_custom_compose">My Compose App</string>
+</resources>

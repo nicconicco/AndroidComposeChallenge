@@ -1,0 +1,4 @@
+rootProject.name = "ComposePathwayCuritiba"
+include ':app'
+include ':basicmodule'
+include ':challenge01'
